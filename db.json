@@ -1,7 +1,42 @@
 {
-    "users": [
-        { "id": 1, "name": "Myra" }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "name": "Mrs. Rick Lehner",
+      "id": 2
+    },
+    {
+      "name": "Oliver Ritchie",
+      "id": 3
+    },
+    {
+      "name": "Lisa Stiedemann",
+      "id": 5
+    },
+    {
+      "name": "Tiffany Hayes",
+      "id": 6
+    },
+    {
+      "name": "Garry Wyman",
+      "id": 7
+    },
+    {
+      "name": "Sam Daugherty",
+      "id": 8
+    },
+    {
+      "name": "Mercedes Heaney",
+      "id": 9
+    },
+    {
+      "name": "Gene Klocko",
+      "id": 10
+    },
+    {
+      "name": "Ervin Connelly",
+      "id": 11
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
